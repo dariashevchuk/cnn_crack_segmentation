@@ -1,0 +1,5 @@
+/crack_segmentation_dataset/
+/pred_masks_png/
+/venv/
+*.py
+__pycache__/
